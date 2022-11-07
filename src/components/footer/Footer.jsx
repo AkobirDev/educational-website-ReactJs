@@ -66,21 +66,21 @@ const Footer = () => {
 
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="instagram.com">
                   <i class="ri-instagram-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="linkedin.com">
                   <i class="ri-linkedin-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="twitter.com">
                   <i class="ri-twitter-line"></i>
                 </a>
               </span>
